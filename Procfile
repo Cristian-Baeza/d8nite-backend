@@ -1,0 +1,1 @@
+web: gunicorn d8night_backend.wsgi
